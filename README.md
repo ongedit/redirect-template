@@ -1,1 +1,1 @@
-edit <./index.mkd>
+edit [index.mkd](./index.mkd)
