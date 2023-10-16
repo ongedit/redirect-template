@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://thuanowa.com/
+redirect_url: https://thuanowa.github.io/
 ---
